@@ -5,3 +5,4 @@ tuya-raw.json
 tinytuya.json
 __pycache__/
 .env
+deviceData.json
